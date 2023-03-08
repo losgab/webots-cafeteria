@@ -8,3 +8,4 @@ This is a simulation of a cafeteria involving a staff and four customer robots. 
 
 Communication between staff and customer robots are simulated by unique dialogue channels. Robots process dialogue data by broadcasting and receive string data packets on their own dialogue channels. This simulation also features a control mode to manually control the speed and movement of the robots. 
 
+Project written in C++, simulation hosted on Webots simulation software.
